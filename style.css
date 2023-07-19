@@ -1,0 +1,51 @@
+html{
+    font-family: 'ZCOOL KuaiLe', sans-serif;
+}
+.headline{
+    text-align: center;
+}
+.container{
+    align-items: center;
+
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.row{
+    margin:8px 0;
+    
+}
+.row input{
+    padding: 10px 2px;
+    margin: 0;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-size: 20px;
+    width: 250px;
+    background-color: black;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+.button{
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 4px;
+    border: 2px solid black;
+    cursor: pointer;
+    width: 55px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: rgb(144, 144, 241);
+    border-radius: 50px;
+}
